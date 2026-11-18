@@ -1,0 +1,491 @@
+Movie_ID,Movie_Name,Genre,Language,Certificate,Duration_Min,Release_Date,Production_Budget,Director,Rating,Movie_Status,Release_Year,Release_Month,Release_Month_Name
+M283,Hidden Truth,Romance,Telugu,A,124.0,2024-07-25,43000000.0,R. Sharma,8.9,Upcoming,2024.0,7.0,July
+M497,The Great Escape,Animation,English,A,162.0,2024-11-14,15000000.0,S. Kapoor,5.8,Active,2024.0,11.0,November
+M274,The Last Chapter,Animation,English,A,121.0,2025-10-06,16000000.0,R. Sharma,7.0,Active,2025.0,10.0,October
+M374,Warrior Rising,Animation,Hindi,A,117.0,2025-08-29,60000000.0,P. Joshi,8.2,Upcoming,2025.0,8.0,August
+M041,Family First,Drama,Hindi,A,117.0,2024-01-10,137000000.0,P. Joshi,7.9,Active,2024.0,1.0,January
+M047,Love Again,Romance,English,A,146.0,2026-02-28,149000000.0,M. Desai,6.4,Upcoming,2026.0,2.0,February
+M376,Shadow House,Romance,Malayalam,UA,157.0,2025-04-13,171000000.0,K. Iyer,6.1,Upcoming,2025.0,4.0,April
+M050,Final Verdict,Drama,Marathi,A,142.0,2024-08-03,166000000.0,S. Kapoor,4.9,Active,2024.0,8.0,August
+M119,Beyond the Stars,Horror,Kannada,U,116.0,2026-02-13,76000000.0,S. Kapoor,8.4,Completed,2026.0,2.0,February
+M461,Love Again,Drama,Kannada,A,136.0,2025-08-23,26000000.0,K. Iyer,9.4,Upcoming,2025.0,8.0,August
+M143,Beyond the Stars,Romance,Kannada,U,167.0,2026-02-02,213000000.0,K. Iyer,5.1,Active,2026.0,2.0,February
+M398,Dream Beyond,Sci-Fi,Kannada,UA,133.0,2025-05-21,148000000.0,S. Kapoor,8.6,Upcoming,2025.0,5.0,May
+M345,The Last Chapter,Animation,Kannada,UA,93.0,2026-02-26,170000000.0,P. Joshi,6.4,Completed,2026.0,2.0,February
+M496,The Great Escape,Sci-Fi,Kannada,U,155.0,2025-05-11,210000000.0,S. Kapoor,7.6,Active,2025.0,5.0,May
+M007,Hidden Truth,Drama,Tamil,U,160.0,2025-04-15,83000000.0,K. Iyer,8.9,Upcoming,2025.0,4.0,April
+M104,Hidden Truth,Animation,Telugu,A,169.0,2024-05-01,65000000.0,M. Desai,6.0,Completed,2024.0,5.0,May
+M176,Dream Beyond,Action,English,UA,179.0,2025-11-04,203000000.0,P. Joshi,8.0,Completed,2025.0,11.0,November
+M466,Monsoon Love,Drama,Tamil,U,132.0,2024-08-14,198000000.0,R. Sharma,6.7,Active,2024.0,8.0,August
+M195,Midnight Express,Horror,Tamil,U,97.0,2024-03-16,102000000.0,P. Joshi,7.2,Active,2024.0,3.0,March
+M031,City Lights,Adventure,Tamil,U,144.0,2024-07-15,54000000.0,P. Joshi,6.3,Completed,2024.0,7.0,July
+M435,Final Verdict,Adventure,Tamil,A,137.0,2024-02-14,125000000.0,R. Sharma,8.8,Upcoming,2024.0,2.0,February
+M210,Family First,Thriller,Telugu,U,129.0,2024-10-18,215000000.0,V. Rao,9.8,Active,2024.0,10.0,October
+M236,The Silent Code,Action,English,A,176.0,2025-06-09,208000000.0,V. Rao,7.8,Active,2025.0,6.0,June
+M137,Laugh Out Loud,Animation,Telugu,A,120.0,2024-06-28,135000000.0,S. Kapoor,6.1,Active,2024.0,6.0,June
+M368,Beyond the Stars,Drama,Marathi,UA,100.0,2024-01-26,37000000.0,S. Kapoor,7.0,Completed,2024.0,1.0,January
+M114,The Great Escape,Horror,Marathi,U,164.0,2025-04-26,119000000.0,V. Rao,9.8,Active,2025.0,4.0,April
+M261,The Silent Code,Horror,Telugu,UA,153.0,2026-02-20,86000000.0,V. Rao,5.9,Active,2026.0,2.0,February
+M462,Ocean's Secret,Drama,Marathi,UA,131.0,2025-11-09,42000000.0,S. Kapoor,7.0,Upcoming,2025.0,11.0,November
+M051,The Silent Code,Comedy,Tamil,U,112.0,2026-06-04,196000000.0,K. Iyer,7.4,Completed,2026.0,6.0,June
+M432,Final Verdict,Comedy,Hindi,UA,93.0,2025-07-13,67000000.0,K. Iyer,4.6,Upcoming,2025.0,7.0,July
+M181,Family First,Animation,Marathi,U,186.0,2025-09-13,139000000.0,R. Sharma,7.8,Completed,2025.0,9.0,September
+M394,Beyond the Stars,Comedy,Telugu,A,124.0,2025-02-06,168000000.0,M. Desai,9.2,Completed,2025.0,2.0,February
+M180,The Silent Code,Action,Malayalam,U,124.0,2024-06-08,121000000.0,M. Desai,9.8,Completed,2024.0,6.0,June
+M396,The Forgotten Road,Action,Kannada,A,101.0,2025-05-14,195000000.0,V. Rao,6.4,Upcoming,2025.0,5.0,May
+M008,Laugh Out Loud,Action,Malayalam,U,188.0,2024-07-15,82000000.0,R. Sharma,7.9,Active,2024.0,7.0,July
+M234,Warrior Rising,Comedy,Malayalam,UA,134.0,2025-09-09,122000000.0,A. Mehta,6.2,Upcoming,2025.0,9.0,September
+M094,Beyond the Stars,Horror,Kannada,U,101.0,2025-05-02,83000000.0,N. Patel,6.6,Completed,2025.0,5.0,May
+M126,Beyond the Stars,Comedy,Tamil,A,151.0,2025-08-16,96000000.0,K. Iyer,9.6,Upcoming,2025.0,8.0,August
+M337,Midnight Express,action,Malayalam,A,187.0,2024-08-19,16000000.0,R. Sharma,6.0,Completed,2024.0,8.0,August
+M112,The Last Chapter,Action,Tamil,A,131.0,2024-03-23,162000000.0,P. Joshi,7.0,Active,2024.0,3.0,March
+M201,The Forgotten Road,Drama,Marathi,U,161.0,2025-10-24,181000000.0,M. Desai,7.4,Completed,2025.0,10.0,October
+M174,City Lights,Comedy,Malayalam,UA,118.0,2025-06-03,35000000.0,K. Iyer,7.4,Upcoming,2025.0,6.0,June
+M306,Hidden Truth,Action,Hindi,UA,94.0,2024-03-06,81000000.0,M. Desai,7.1,Active,2024.0,3.0,March
+M033,Final Verdict,Comedy,Tamil,UA,151.0,2026-02-10,62000000.0,M. Desai,7.0,Active,2026.0,2.0,February
+M087,The Forgotten Road,Action,Tamil,UA,152.0,2025-10-25,35000000.0,M. Desai,8.1,Completed,2025.0,10.0,October
+M456,Ocean's Secret,Sci-Fi,Kannada,U,112.0,2026-05-16,68000000.0,K. Iyer,6.0,Upcoming,2026.0,5.0,May
+M467,The Forgotten Road,Comedy,Malayalam,U,180.0,2024-12-21,179000000.0,K. Iyer,7.7,Completed,2024.0,12.0,December
+M463,Beyond the Stars,Sci-Fi,English,A,161.0,2025-03-23,185000000.0,K. Iyer,6.2,Active,2025.0,3.0,March
+M132,The Forgotten Road,Adventure,Tamil,UA,170.0,2024-03-23,191000000.0,V. Rao,7.1,Upcoming,2024.0,3.0,March
+M266,The Great Escape,Horror,Kannada,A,125.0,2025-01-30,219000000.0,R. Sharma,5.5,Active,2025.0,1.0,January
+M156,Family First,Thriller,Kannada,UA,102.0,2025-03-30,183000000.0,K. Iyer,6.1,Upcoming,2025.0,3.0,March
+M235,Campus Days,Animation,Marathi,A,97.0,2026-06-09,27000000.0,M. Desai,9.6,Completed,2026.0,6.0,June
+M072,Final Verdict,Animation,Malayalam,U,180.0,2024-06-03,62000000.0,R. Sharma,8.8,Completed,2024.0,6.0,June
+M212,City Lights,Comedy,Kannada,UA,96.0,2026-04-16,172000000.0,V. Rao,8.4,Completed,2026.0,4.0,April
+M116,Beyond the Stars,Romance,Malayalam,UA,187.0,2025-02-25,148000000.0,A. Mehta,7.4,Completed,2025.0,2.0,February
+M247,Beyond the Stars,Adventure,Tamil,UA,163.0,2026-01-06,26000000.0,S. Kapoor,6.4,Completed,2026.0,1.0,January
+M049,Love Again,Animation,English,U,129.0,2025-07-19,101000000.0,A. Mehta,7.4,Completed,2025.0,7.0,July
+M163,Beyond the Stars,Drama,Kannada,UA,155.0,2024-03-06,159000000.0,R. Sharma,8.4,Completed,2024.0,3.0,March
+M127,Hidden Truth,Animation,Tamil,UA,114.0,2026-02-20,186000000.0,N. Patel,5.8,Upcoming,2026.0,2.0,February
+M395,Laugh Out Loud,Drama,Tamil,A,185.0,2025-04-07,79000000.0,K. Iyer,8.4,Completed,2025.0,4.0,April
+M416,The Great Escape,Animation,Tamil,A,141.0,2024-10-20,29000000.0,S. Kapoor,6.1,Completed,2024.0,10.0,October
+M494,Shadow House,Thriller,English,UA,185.0,2026-05-28,105000000.0,K. Iyer,6.0,Completed,2026.0,5.0,May
+M349,Midnight Express,Horror,Marathi,UA,103.0,2024-01-06,41000000.0,R. Sharma,6.1,Active,2024.0,1.0,January
+M045,The Forgotten Road,Thriller,ENGLISH,A,123.0,2024-08-03,137000000.0,V. Rao,5.2,Completed,2024.0,8.0,August
+M346,Final Verdict,Sci-Fi,Telugu,UA,145.0,2025-05-17,55000000.0,M. Desai,7.3,Active,2025.0,5.0,May
+M100,Love Again,Romance,Hindi,U,160.0,2025-06-30,82000000.0,S. Kapoor,6.7,Upcoming,2025.0,6.0,June
+M218,Family First,Action,Hindi,U,122.0,2025-04-25,63000000.0,S. Kapoor,6.7,Upcoming,2025.0,4.0,April
+M101,Beyond the Stars,Drama,Kannada,U,163.0,2026-06-08,80000000.0,V. Rao,5.3,Completed,2026.0,6.0,June
+M238,The Last Chapter,Comedy,Malayalam,UA,137.0,2024-02-03,103000000.0,V. Rao,7.2,Active,2024.0,2.0,February
+M168,The Last Chapter,Animation,Hindi,A,104.0,2025-06-01,175000000.0,N. Patel,9.3,Completed,2025.0,6.0,June
+M391,The Last Chapter,Adventure,English,UA,180.0,2024-10-14,82000000.0,P. Joshi,5.9,Upcoming,2024.0,10.0,October
+M424,Campus Days,Action,Tamil,A,111.0,2025-06-07,102000000.0,S. Kapoor,8.2,Completed,2025.0,6.0,June
+M400,The Silent Code,Horror,Tamil,U,144.0,2024-05-07,59000000.0,S. Kapoor,8.5,Upcoming,2024.0,5.0,May
+M058,The Last Mission,Adventure,Kannada,A,177.0,2025-03-22,192000000.0,N. Patel,6.6,Completed,2025.0,3.0,March
+M178,The Last Mission,Drama,Malayalam,A,117.0,2024-05-25,104000000.0,M. Desai,8.7,Completed,2024.0,5.0,May
+M483,The Great Escape,Animation,Telugu,A,150.0,2026-04-18,154000000.0,N. Patel,5.1,Completed,2026.0,4.0,April
+M172,Mumbai Diaries,Adventure,Telugu,UA,175.0,2025-07-23,39000000.0,M. Desai,6.0,Completed,2025.0,7.0,July
+M207,Hidden Truth,Adventure,Hindi,A,133.0,2025-06-03,204000000.0,S. Kapoor,7.6,Upcoming,2025.0,6.0,June
+M004,Monsoon Love,Romance,Kannada,U,187.0,2025-04-04,214000000.0,S. Kapoor,8.8,Upcoming,2025.0,4.0,April
+M196,Laugh Out Loud,Adventure,Tamil,UA,164.0,2025-10-22,149000000.0,A. Mehta,7.5,Completed,2025.0,10.0,October
+M454,Beyond the Stars,Adventure,Marathi,A,119.0,2026-04-08,48000000.0,R. Sharma,7.6,Active,2026.0,4.0,April
+M192,Laugh Out Loud,Comedy,Kannada,A,153.0,2024-06-05,126000000.0,V. Rao,8.0,Upcoming,2024.0,6.0,June
+M175,Shadow House,Romance,Telugu,U,144.0,2025-01-11,151000000.0,A. Mehta,7.3,Upcoming,2025.0,1.0,January
+M297,Shadow House,Horror,Tamil,U,141.0,2025-11-14,183000000.0,P. Joshi,8.1,Upcoming,2025.0,11.0,November
+M085,Laugh Out Loud,Thriller,Hindi,A,188.0,2024-07-22,85000000.0,R. Sharma,6.0,Upcoming,2024.0,7.0,July
+M499,Dream Beyond,Sci-Fi,Kannada,UA,154.0,2024-07-22,109000000.0,R. Sharma,5.9,Upcoming,2024.0,7.0,July
+M092,Dream Beyond,Sci-Fi,Marathi,A,179.0,2024-12-29,78000000.0,A. Mehta,8.2,Upcoming,2024.0,12.0,December
+M421,Campus Days,Adventure,Telugu,A,123.0,2025-05-23,50000000.0,K. Iyer,9.5,Active,2025.0,5.0,May
+M029,Warrior Rising,Sci-Fi,Tamil,UA,149.0,2025-11-05,194000000.0,S. Kapoor,6.3,Upcoming,2025.0,11.0,November
+M052,Final Verdict,Romance,English,A,103.0,2026-04-01,105000000.0,A. Mehta,6.5,Completed,2026.0,4.0,April
+M264,Shadow House,Animation,English,UA,183.0,2024-01-09,105000000.0,M. Desai,5.8,Completed,2024.0,1.0,January
+M215,Warrior Rising,Action,Tamil,A,137.0,2024-01-28,68000000.0,M. Desai,6.6,Active,2024.0,1.0,January
+M103,Laugh Out Loud,Action,English,U,162.0,2025-05-18,85000000.0,S. Kapoor,6.6,Active,2025.0,5.0,May
+M478,The Last Mission,Thriller,English,A,127.0,2024-04-09,28000000.0,V. Rao,7.4,Active,2024.0,4.0,April
+M365,Campus Days,Comedy,Malayalam,A,95.0,2025-11-11,152000000.0,M. Desai,7.8,Completed,2025.0,11.0,November
+M373,The Silent Code,Animation,Tamil,U,184.0,,165000000.0,N. Patel,8.7,Completed,,,
+M267,Ocean's Secret,Sci-Fi,Kannada,UA,161.0,2024-04-09,101000000.0,S. Kapoor,9.0,Active,2024.0,4.0,April
+M073,The Forgotten Road,Adventure,Tamil,UA,97.0,2025-02-21,60000000.0,M. Desai,7.0,Completed,2025.0,2.0,February
+M288,Final Verdict,Adventure,Malayalam,A,94.0,2025-08-10,52000000.0,M. Desai,7.7,Active,2025.0,8.0,August
+M486,Warrior Rising,Thriller,Kannada,A,108.0,2024-03-21,160000000.0,P. Joshi,5.3,Completed,2024.0,3.0,March
+M389,Monsoon Love,Sci-Fi,Kannada,A,168.0,2026-04-10,169000000.0,M. Desai,8.1,Active,2026.0,4.0,April
+M157,Campus Days,Action,Tamil,UA,114.0,2025-10-22,39000000.0,V. Rao,9.2,Active,2025.0,10.0,October
+M307,Love Again,Animation,Marathi,UA,147.0,2026-02-26,104000000.0,M. Desai,8.5,Active,2026.0,2.0,February
+M003,The Great Escape,Action,Telugu,U,181.0,2024-08-26,174000000.0,M. Desai,7.8,Active,2024.0,8.0,August
+M213,Shadow House,Adventure,Kannada,U,126.0,2025-07-21,29000000.0,S. Kapoor,8.1,Completed,2025.0,7.0,July
+M302,The Great Escape,Horror,Hindi,A,116.0,2024-12-01,191000000.0,V. Rao,6.3,Active,2024.0,12.0,December
+M422,Dream Beyond,Drama,Kannada,U,132.0,2026-02-06,214000000.0,M. Desai,9.1,Completed,2026.0,2.0,February
+M329,Beyond the Stars,Horror,English,A,135.0,2026-01-10,51000000.0,S. Kapoor,7.7,Upcoming,2026.0,1.0,January
+M152,Laugh Out Loud,Horror,hindi,UA,173.0,2024-08-14,112000000.0,R. Sharma,7.4,Active,2024.0,8.0,August
+M318,Final Verdict,Romance,Kannada,A,108.0,2026-05-19,214000000.0,V. Rao,6.6,Active,2026.0,5.0,May
+M081,Laugh Out Loud,Action,Kannada,U,139.0,2025-10-27,59000000.0,A. Mehta,6.7,Upcoming,2025.0,10.0,October
+M187,Warrior Rising,Romance,Hindi,UA,92.0,2025-02-18,91000000.0,S. Kapoor,7.6,Upcoming,2025.0,2.0,February
+M352,Warrior Rising,Animation,Kannada,U,182.0,2024-10-25,151000000.0,N. Patel,8.8,Upcoming,2024.0,10.0,October
+M011,Final Verdict,Comedy,Tamil,UA,124.0,2026-01-16,171000000.0,N. Patel,6.4,Upcoming,2026.0,1.0,January
+M232,Laugh Out Loud,Animation,Hindi,UA,167.0,2024-09-30,218000000.0,S. Kapoor,7.3,Upcoming,2024.0,9.0,September
+M281,Monsoon Love,Adventure,Tamil,UA,134.0,2024-05-04,205000000.0,S. Kapoor,7.1,Completed,2024.0,5.0,May
+M064,The Last Chapter,Sci-Fi,Hindi,U,176.0,2025-06-11,87000000.0,N. Patel,5.6,Active,2025.0,6.0,June
+M065,The Last Mission,Action,English,UA,168.0,2024-05-30,204000000.0,R. Sharma,8.0,Completed,2024.0,5.0,May
+M062,City Lights,Animation,Kannada,A,167.0,2024-10-20,175000000.0,K. Iyer,6.8,Completed,2024.0,10.0,October
+M252,Midnight Express,Adventure,Hindi,A,172.0,2025-10-02,51000000.0,S. Kapoor,8.1,Active,2025.0,10.0,October
+M472,Shadow House,Drama,Marathi,U,138.0,2024-09-24,49000000.0,R. Sharma,4.2,Upcoming,2024.0,9.0,September
+M308,Hidden Truth,Comedy,Malayalam,UA,105.0,2025-11-30,53000000.0,M. Desai,6.3,Upcoming,2025.0,11.0,November
+M054,Ocean's Secret,Sci-Fi,Marathi,U,188.0,2024-07-16,79000000.0,K. Iyer,7.7,Upcoming,2024.0,7.0,July
+M200,Ocean's Secret,Animation,Kannada,UA,176.0,2024-10-16,161000000.0,A. Mehta,5.6,Upcoming,2024.0,10.0,October
+M347,The Last Chapter,Romance,Kannada,U,181.0,2026-03-01,26000000.0,R. Sharma,5.3,Completed,2026.0,3.0,March
+M155,Shadow House,Horror,Telugu,UA,125.0,2025-11-01,16000000.0,K. Iyer,7.4,Active,2025.0,11.0,November
+M341,Mumbai Diaries,Comedy,Kannada,UA,92.0,2025-07-31,61000000.0,S. Kapoor,6.0,Upcoming,2025.0,7.0,July
+M082,Final Verdict,Comedy,Tamil,A,104.0,2024-06-05,152000000.0,N. Patel,7.4,Completed,2024.0,6.0,June
+M009,Shadow House,Animation,Marathi,UA,171.0,2026-06-06,101000000.0,S. Kapoor,6.4,Completed,2026.0,6.0,June
+M446,Dream Beyond,Drama,Hindi,U,115.0,2025-08-23,173000000.0,V. Rao,7.8,Active,2025.0,8.0,August
+M277,Hidden Truth,Sci-Fi,Malayalam,UA,157.0,2024-07-31,104000000.0,K. Iyer,7.2,Active,2024.0,7.0,July
+M142,Dream Beyond,Action,Telugu,A,189.0,2025-02-09,198000000.0,A. Mehta,8.6,Upcoming,2025.0,2.0,February
+M189,Ocean's Secret,Romance,Malayalam,UA,118.0,2024-03-21,93000000.0,S. Kapoor,6.0,Active,2024.0,3.0,March
+M097,Shadow House,Thriller,Marathi,U,185.0,2024-08-24,145000000.0,S. Kapoor,7.4,Active,2024.0,8.0,August
+M086,Mumbai Diaries,Sci-Fi,Telugu,UA,174.0,2026-03-12,102000000.0,R. Sharma,6.4,Upcoming,2026.0,3.0,March
+M401,The Silent Code,Romance,Hindi,A,136.0,,72000000.0,R. Sharma,5.1,Completed,,,
+M458,Beyond the Stars,Adventure,Marathi,U,152.0,2024-07-11,17000000.0,R. Sharma,5.8,Active,2024.0,7.0,July
+M426,Mumbai Diaries,Horror,Marathi,UA,109.0,2024-09-07,53000000.0,A. Mehta,8.6,Upcoming,2024.0,9.0,September
+M122,Shadow House,Comedy,Tamil,A,127.0,2025-04-17,138000000.0,P. Joshi,5.9,Completed,2025.0,4.0,April
+M480,Ocean's Secret,Sci-Fi,English,UA,95.0,2025-01-14,75000000.0,V. Rao,8.3,Completed,2025.0,1.0,January
+M038,Final Verdict,Animation,Hindi,A,121.0,2024-03-10,156000000.0,A. Mehta,4.6,Upcoming,2024.0,3.0,March
+M385,Family First,Horror,Telugu,A,104.0,2026-03-10,105000000.0,R. Sharma,6.1,Completed,2026.0,3.0,March
+M276,The Last Chapter,Horror,Kannada,A,183.0,2025-05-28,23000000.0,S. Kapoor,7.6,Upcoming,2025.0,5.0,May
+M138,Dream Beyond,Horror,Marathi,A,91.0,2025-04-17,213000000.0,V. Rao,6.6,Completed,2025.0,4.0,April
+M223,Laugh Out Loud,Adventure,Marathi,U,157.0,2025-11-11,147000000.0,A. Mehta,7.8,Completed,2025.0,11.0,November
+M488,Family First,Action,Kannada,A,169.0,2025-06-16,158000000.0,M. Desai,5.7,Active,2025.0,6.0,June
+M300,The Last Chapter,Drama,Telugu,UA,157.0,2025-11-27,188000000.0,K. Iyer,7.8,Active,2025.0,11.0,November
+M342,Ocean's Secret,Drama,Tamil,U,162.0,2026-04-20,69000000.0,M. Desai,7.3,Upcoming,2026.0,4.0,April
+M403,Laugh Out Loud,Drama,marathi,U,151.0,2025-11-02,27000000.0,S. Kapoor,7.0,Upcoming,2025.0,11.0,November
+M387,Warrior Rising,Drama,Malayalam,A,186.0,2024-08-11,71000000.0,P. Joshi,7.4,Active,2024.0,8.0,August
+M305,The Last Mission,Thriller,Telugu,U,95.0,2026-04-16,116000000.0,K. Iyer,7.0,Upcoming,2026.0,4.0,April
+M016,The Silent Code,Drama,Telugu,U,139.0,2024-06-05,105000000.0,V. Rao,6.3,Upcoming,2024.0,6.0,June
+M430,Hidden Truth,Horror,Hindi,UA,115.0,2024-03-29,82000000.0,P. Joshi,4.9,Upcoming,2024.0,3.0,March
+M397,Campus Days,Drama,Kannada,A,140.0,2025-11-11,63000000.0,M. Desai,4.9,COMPLETED,2025.0,11.0,November
+M037,The Great Escape,Comedy,English,A,100.0,2026-05-23,55000000.0,R. Sharma,7.3,Upcoming,2026.0,5.0,May
+M417,Midnight Express,Drama,Telugu,U,109.0,2024-03-26,145000000.0,K. Iyer,8.9,Completed,2024.0,3.0,March
+M217,Mumbai Diaries,Romance,Kannada,UA,179.0,2024-05-20,220000000.0,S. Kapoor,6.1,Upcoming,2024.0,5.0,May
+M165,Mumbai Diaries,Horror,Kannada,UA,144.0,2024-02-01,183000000.0,R. Sharma,8.2,Completed,2024.0,2.0,February
+M280,City Lights,Horror,Marathi,UA,134.0,2025-12-22,151000000.0,P. Joshi,6.5,Completed,2025.0,12.0,December
+M108,Final Verdict,Romance,Malayalam,UA,179.0,2024-02-03,124000000.0,R. Sharma,7.2,Upcoming,2024.0,2.0,February
+M407,Love Again,Drama,Telugu,ua,91.0,2025-11-24,164000000.0,S. Kapoor,7.0,Completed,2025.0,11.0,November
+M477,Laugh Out Loud,Romance,Kannada,A,170.0,2025-03-13,161000000.0,V. Rao,7.7,Active,2025.0,3.0,March
+M294,Laugh Out Loud,Animation,Malayalam,U,113.0,2024-12-01,43000000.0,V. Rao,8.0,Completed,2024.0,12.0,December
+M291,The Great Escape,Horror,Marathi,U,104.0,2026-05-21,92000000.0,S. Kapoor,6.8,Upcoming,2026.0,5.0,May
+M259,Family First,Drama,Marathi,UA,121.0,2024-09-04,44000000.0,R. Sharma,7.5,Active,2024.0,9.0,September
+M093,Laugh Out Loud,Thriller,Malayalam,UA,152.0,2024-07-14,150000000.0,N. Patel,6.2,Upcoming,2024.0,7.0,July
+M209,Mumbai Diaries,Animation,Marathi,A,182.0,2025-03-24,68000000.0,V. Rao,7.6,Upcoming,2025.0,3.0,March
+M289,Ocean's Secret,Horror,English,A,127.0,2024-02-07,17000000.0,A. Mehta,7.3,Completed,2024.0,2.0,February
+M263,Midnight Express,Horror,Telugu,A,176.0,2024-02-21,128000000.0,P. Joshi,3.1,Upcoming,2024.0,2.0,February
+M148,Beyond the Stars,Romance,Malayalam,UA,104.0,2026-04-24,127000000.0,R. Sharma,5.4,Active,2026.0,4.0,April
+M135,Midnight Express,Action,Hindi,UA,97.0,2025-12-11,83000000.0,K. Iyer,5.9,Completed,2025.0,12.0,December
+M334,Dream Beyond,Adventure,Marathi,U,154.0,2026-01-09,216000000.0,M. Desai,6.2,Active,2026.0,1.0,January
+M075,Ocean's Secret,Animation,Telugu,A,184.0,,147000000.0,N. Patel,3.9,Completed,,,
+M479,Ocean's Secret,Horror,Tamil,A,123.0,2024-11-11,31000000.0,M. Desai,9.8,Active,2024.0,11.0,November
+M369,The Forgotten Road,Horror,Kannada,U,156.0,2024-11-15,131000000.0,K. Iyer,7.1,Completed,2024.0,11.0,November
+M404,The Great Escape,Horror,Hindi,U,179.0,2024-08-19,95000000.0,R. Sharma,7.1,Completed,2024.0,8.0,August
+M443,Midnight Express,Romance,Kannada,U,93.0,2024-02-20,111000000.0,S. Kapoor,4.5,Upcoming,2024.0,2.0,February
+M282,Midnight Express,Drama,Marathi,UA,173.0,2024-02-13,73000000.0,V. Rao,7.8,Active,2024.0,2.0,February
+M013,Monsoon Love,Sci-Fi,English,A,153.0,2024-08-04,109000000.0,V. Rao,7.3,Active,2024.0,8.0,August
+M270,The Forgotten Road,Comedy,Tamil,A,184.0,2025-09-19,84000000.0,K. Iyer,7.2,Upcoming,2025.0,9.0,September
+M311,Shadow House,Action,Kannada,A,143.0,2026-02-22,165000000.0,A. Mehta,6.7,Active,2026.0,2.0,February
+M493,Dream Beyond,Sci-Fi,Hindi,UA,128.0,2025-05-01,3800000000.0,P. Joshi,7.1,Completed,2025.0,5.0,May
+M173,Warrior Rising,Action,Marathi,A,129.0,2026-06-13,98000000.0,R. Sharma,6.9,Upcoming,2026.0,6.0,June
+M410,Love Again,Thriller,Marathi,A,100.0,2026-03-21,71000000.0,P. Joshi,7.6,Upcoming,2026.0,3.0,March
+M272,The Forgotten Road,Drama,Tamil,A,129.0,2025-01-12,211000000.0,A. Mehta,5.3,Upcoming,2025.0,1.0,January
+M246,Hidden Truth,Comedy,Telugu,U,98.0,2026-04-02,87000000.0,M. Desai,6.6,Upcoming,2026.0,4.0,April
+M320,The Forgotten Road,Drama,Tamil,UA,101.0,2024-07-27,145000000.0,N. Patel,6.8,Active,2024.0,7.0,July
+M005,The Forgotten Road,Romance,English,U,187.0,2025-03-08,94000000.0,R. Sharma,6.7,Active,2025.0,3.0,March
+M355,Dream Beyond,Thriller,Malayalam,UA,153.0,2025-01-04,160000000.0,N. Patel,7.0,Completed,2025.0,1.0,January
+M333,The Last Mission,Action,Telugu,A,142.0,2025-05-14,11000000.0,A. Mehta,7.1,Upcoming,2025.0,5.0,May
+M145,Mumbai Diaries,Romance,Kannada,UA,94.0,2024-04-09,156000000.0,K. Iyer,7.3,Upcoming,2024.0,4.0,April
+M055,Ocean's Secret,Adventure,Marathi,U,104.0,2025-06-05,74000000.0,S. Kapoor,8.2,Upcoming,2025.0,6.0,June
+M164,Final Verdict,Action,Malayalam,A,156.0,2025-05-30,85000000.0,V. Rao,6.0,Upcoming,2025.0,5.0,May
+M203,Ocean's Secret,Comedy,Telugu,A,100.0,2024-11-13,87000000.0,M. Desai,0.2,Upcoming,2024.0,11.0,November
+M221,Beyond the Stars,Adventure,Hindi,A,155.0,2026-05-06,155000000.0,N. Patel,9.8,Upcoming,2026.0,5.0,May
+M452,Campus Days,Horror,Telugu,UA,134.0,2026-03-11,152000000.0,K. Iyer,8.1,Completed,2026.0,3.0,March
+M380,Monsoon Love,Animation,Tamil,U,152.0,2024-05-21,170000000.0,S. Kapoor,6.0,Upcoming,2024.0,5.0,May
+M468,Dream Beyond,Thriller,English,A,98.0,2024-01-12,97000000.0,P. Joshi,7.9,Active,2024.0,1.0,January
+M107,The Silent Code,Action,Tamil,UA,178.0,2024-03-17,160000000.0,V. Rao,9.3,Completed,2024.0,3.0,March
+M317,Warrior Rising,Animation,English,A,138.0,2024-11-22,55000000.0,V. Rao,7.8,Active,2024.0,11.0,November
+M390,Love Again,Thriller,Kannada,U,97.0,2025-09-22,153000000.0,K. Iyer,6.3,Upcoming,2025.0,9.0,September
+M025,Shadow House,Thriller,English,U,133.0,2025-04-07,13000000.0,N. Patel,6.3,Upcoming,2025.0,4.0,April
+M044,Shadow House,Drama,Malayalam,A,109.0,2024-09-27,77000000.0,P. Joshi,6.6,Upcoming,2024.0,9.0,September
+M283,Campus Days,Romance,English,UA,189.0,2024-11-16,216000000.0,S. Kapoor,7.7,Upcoming,2024.0,11.0,November
+M322,The Forgotten Road,Romance,Hindi,U,114.0,2024-08-01,197000000.0,R. Sharma,7.7,Upcoming,2024.0,8.0,August
+M498,City Lights,Action,English,U,148.0,2026-06-15,20000000.0,K. Iyer,6.8,Upcoming,2026.0,6.0,June
+M324,The Forgotten Road,Romance,Tamil,UA,158.0,2025-07-19,174000000.0,K. Iyer,9.5,Completed,2025.0,7.0,July
+M083,Dream Beyond,Sci-Fi,Tamil,A,167.0,2025-12-17,199000000.0,R. Sharma,8.8,Active,2025.0,12.0,December
+M167,The Last Chapter,Adventure,Malayalam,UA,138.0,2024-10-08,160000000.0,P. Joshi,8.0,Completed,2024.0,10.0,October
+M485,Family First,Comedy,English,U,114.0,2026-02-14,40000000.0,A. Mehta,6.1,Completed,2026.0,2.0,February
+M367,Ocean's Secret,Horror,Kannada,A,165.0,2025-01-18,184000000.0,S. Kapoor,7.3,Completed,2025.0,1.0,January
+M125,The Great Escape,Romance,Kannada,U,126.0,2026-03-17,193000000.0,P. Joshi,7.7,Upcoming,2026.0,3.0,March
+M414,Campus Days,Adventure,Malayalam,U,187.0,2025-03-06,128000000.0,R. Sharma,8.5,Active,2025.0,3.0,March
+M102,The Forgotten Road,Comedy,Hindi,UA,151.0,2025-03-27,37000000.0,R. Sharma,6.5,active,2025.0,3.0,March
+M439,Monsoon Love,Drama,English,U,111.0,2026-03-09,123000000.0,V. Rao,5.0,Completed,2026.0,3.0,March
+M077,Family First,Comedy,Telugu,A,93.0,2024-06-18,108000000.0,A. Mehta,7.1,Active,2024.0,6.0,June
+M133,The Last Chapter,Drama,English,A,177.0,2024-02-06,81000000.0,N. Patel,5.7,Upcoming,2024.0,2.0,February
+M191,Love Again,Thriller,Hindi,U,122.0,2026-04-18,58000000.0,S. Kapoor,6.5,Upcoming,2026.0,4.0,April
+M151,Campus Days,Drama,Malayalam,U,150.0,2025-01-25,14000000.0,K. Iyer,7.3,Upcoming,2025.0,1.0,January
+M027,The Forgotten Road,Drama,Telugu,U,125.0,2026-05-30,179000000.0,V. Rao,5.6,Active,2026.0,5.0,May
+M338,Ocean's Secret,Adventure,Tamil,U,171.0,2025-01-23,10000000.0,S. Kapoor,6.6,Active,2025.0,1.0,January
+M375,Laugh Out Loud,Drama,Kannada,A,113.0,2026-04-08,101000000.0,K. Iyer,9.6,Active,2026.0,4.0,April
+M113,Final Verdict,Action,Kannada,A,124.0,2024-04-03,155000000.0,A. Mehta,7.1,Active,2024.0,4.0,April
+M304,Hidden Truth,Horror,Malayalam,UA,182.0,2024-02-29,13000000.0,M. Desai,7.7,Completed,2024.0,2.0,February
+M293,City Lights,Comedy,Telugu,A,141.0,2025-11-21,219000000.0,M. Desai,6.3,Upcoming,2025.0,11.0,November
+M372,The Forgotten Road,Adventure,Tamil,UA,119.0,2024-06-12,212000000.0,M. Desai,7.6,Upcoming,2024.0,6.0,June
+M028,Love Again,Horror,English,UA,142.0,2025-07-06,56000000.0,R. Sharma,7.5,Active,2025.0,7.0,July
+M260,Ocean's Secret,Animation,English,U,131.0,2024-10-24,155000000.0,K. Iyer,7.9,Active,2024.0,10.0,October
+M359,Beyond the Stars,Thriller,Marathi,UA,125.0,2025-12-12,217000000.0,M. Desai,7.4,Completed,2025.0,12.0,December
+M111,Family First,Romance,Malayalam,UA,124.0,2024-05-07,136000000.0,V. Rao,4.7,Completed,2024.0,5.0,May
+M205,Warrior Rising,Adventure,Marathi,U,136.0,2025-11-17,87000000.0,S. Kapoor,5.3,Active,2025.0,11.0,November
+M231,Ocean's Secret,Sci-Fi,English,UA,178.0,2025-03-26,135000000.0,K. Iyer,6.1,Upcoming,2025.0,3.0,March
+M309,Final Verdict,Action,Kannada,U,128.0,2024-05-10,126000000.0,M. Desai,7.7,Upcoming,2024.0,5.0,May
+M206,Beyond the Stars,Thriller,English,U,109.0,2024-12-15,27000000.0,P. Joshi,5.9,Active,2024.0,12.0,December
+M448,Beyond the Stars,Action,Tamil,A,144.0,2025-02-08,52000000.0,K. Iyer,5.9,Active,2025.0,2.0,February
+M171,Laugh Out Loud,Drama,Tamil,U,185.0,2026-05-01,197000000.0,K. Iyer,5.9,Active,2026.0,5.0,May
+M492,Ocean's Secret,Action,Tamil,UA,178.0,2025-09-15,68000000.0,A. Mehta,8.8,Upcoming,2025.0,9.0,September
+M379,The Silent Code,Sci-Fi,Malayalam,U,155.0,2024-04-29,107000000.0,M. Desai,9.6,Upcoming,2024.0,4.0,April
+M057,The Great Escape,Drama,Tamil,A,114.0,2025-09-12,73000000.0,A. Mehta,6.0,Upcoming,2025.0,9.0,September
+M149,Final Verdict,Animation,Kannada,A,136.0,2026-02-11,31000000.0,M. Desai,7.6,Active,2026.0,2.0,February
+M242,Love Again,Drama,Tamil,U,181.0,2024-05-05,121000000.0,R. Sharma,6.9,Upcoming,2024.0,5.0,May
+M088,Family First,Comedy,Tamil,U,183.0,2025-10-12,141000000.0,P. Joshi,7.4,Upcoming,2025.0,10.0,October
+M248,Laugh Out Loud,Drama,Tamil,A,156.0,2025-10-19,96000000.0,S. Kapoor,6.2,Upcoming,2025.0,10.0,October
+M091,Ocean's Secret,Sci-Fi,Hindi,UA,131.0,2025-09-16,54000000.0,V. Rao,7.1,Active,2025.0,9.0,September
+M098,Beyond the Stars,Romance,Malayalam,A,187.0,2024-08-09,142000000.0,P. Joshi,7.3,Active,2024.0,8.0,August
+M059,Laugh Out Loud,Sci-Fi,Telugu,UA,174.0,2025-03-17,39000000.0,P. Joshi,7.0,Upcoming,2025.0,3.0,March
+M070,Final Verdict,Romance,Kannada,A,152.0,2024-09-22,168000000.0,N. Patel,6.2,Completed,2024.0,9.0,September
+M340,Monsoon Love,Horror,Marathi,U,99.0,2026-06-07,183000000.0,P. Joshi,6.3,Upcoming,2026.0,6.0,June
+M310,Final Verdict,Thriller,Tamil,UA,109.0,2025-01-23,78000000.0,N. Patel,6.8,Upcoming,2025.0,1.0,January
+M384,Final Verdict,Romance,Hindi,UA,118.0,2024-02-01,145000000.0,P. Joshi,6.4,Active,2024.0,2.0,February
+M405,Love Again,Horror,Hindi,U,139.0,2025-12-11,30000000.0,R. Sharma,6.5,Active,2025.0,12.0,December
+M214,The Great Escape,Comedy,Kannada,UA,101.0,2025-04-05,64000000.0,V. Rao,7.8,Completed,2025.0,4.0,April
+M323,Beyond the Stars,Thriller,Malayalam,ua,180.0,2026-02-11,60000000.0,M. Desai,6.0,Active,2026.0,2.0,February
+M286,Love Again,Action,Telugu,U,142.0,2026-02-28,175000000.0,V. Rao,4.7,Completed,2026.0,2.0,February
+M313,Mumbai Diaries,Animation,Tamil,U,159.0,2026-01-28,63000000.0,A. Mehta,8.0,Active,2026.0,1.0,January
+M361,City Lights,Horror,Kannada,UA,178.0,2025-04-17,25000000.0,M. Desai,7.6,Upcoming,2025.0,4.0,April
+M325,Campus Days,Adventure,Tamil,UA,102.0,2024-09-24,213000000.0,V. Rao,5.8,active,2024.0,9.0,September
+M500,Final Verdict,Sci-Fi,Tamil,A,147.0,2024-02-01,53000000.0,V. Rao,5.3,Upcoming,2024.0,2.0,February
+M226,The Forgotten Road,thriller,Hindi,UA,159.0,2026-01-22,94000000.0,S. Kapoor,8.3,Upcoming,2026.0,1.0,January
+M090,Final Verdict,Drama,Marathi,UA,121.0,2026-05-22,200000000.0,V. Rao,7.6,Upcoming,2026.0,5.0,May
+M330,Beyond the Stars,Comedy,Telugu,A,97.0,2025-07-13,142000000.0,A. Mehta,7.8,Active,2025.0,7.0,July
+M343,The Forgotten Road,Animation,Kannada,A,107.0,2025-07-07,210000000.0,R. Sharma,7.3,Upcoming,2025.0,7.0,July
+M474,The Silent Code,Action,Hindi,UA,116.0,2025-03-20,56000000.0,M. Desai,8.6,Upcoming,2025.0,3.0,March
+M371,The Forgotten Road,Drama,Malayalam,U,184.0,2026-05-19,70000000.0,S. Kapoor,7.0,Upcoming,2026.0,5.0,May
+M459,The Last Chapter,Thriller,Hindi,A,151.0,2024-08-26,8000000.0,K. Iyer,6.3,Upcoming,2024.0,8.0,August
+M015,Campus Days,Thriller,English,A,153.0,2025-02-12,31000000.0,A. Mehta,4.9,Active,2025.0,2.0,February
+M451,Warrior Rising,Thriller,Malayalam,A,121.0,2024-05-20,169000000.0,A. Mehta,6.9,Completed,2024.0,5.0,May
+M295,The Last Mission,ACTION,Tamil,U,147.0,2024-09-11,200000000.0,P. Joshi,7.4,Completed,2024.0,9.0,September
+M121,Midnight Express,Adventure,Hindi,A,142.0,2024-06-11,31000000.0,N. Patel,7.9,Active,2024.0,6.0,June
+M043,The Great Escape,Action,Malayalam,A,128.0,2026-04-06,177000000.0,R. Sharma,6.9,Active,2026.0,4.0,April
+M197,Monsoon Love,Thriller,Marathi,A,150.0,2026-04-09,136000000.0,S. Kapoor,5.9,Active,2026.0,4.0,April
+M034,Ocean's Secret,Action,Tamil,u,190.0,2024-06-17,208000000.0,V. Rao,5.7,Completed,2024.0,6.0,June
+M475,Hidden Truth,Romance,Malayalam,UA,128.0,2025-07-21,68000000.0,R. Sharma,9.0,Active,2025.0,7.0,July
+M447,The Forgotten Road,Drama,Hindi,UA,96.0,2024-04-04,51000000.0,M. Desai,7.4,Upcoming,2024.0,4.0,April
+M384,Laugh Out Loud,Drama,Malayalam,U,130.0,2024-06-25,38000000.0,N. Patel,7.2,Completed,2024.0,6.0,June
+M336,Ocean's Secret,Drama,Marathi,UA,148.0,2024-09-30,152000000.0,N. Patel,6.8,Upcoming,2024.0,9.0,September
+M303,Family First,Action,Tamil,U,155.0,2025-06-06,114000000.0,V. Rao,7.9,Upcoming,2025.0,6.0,June
+M290,The Last Chapter,Drama,Marathi,UA,148.0,2025-08-04,172000000.0,V. Rao,6.3,Active,2025.0,8.0,August
+M017,Hidden Truth,Action,Malayalam,A,104.0,2024-09-14,182000000.0,P. Joshi,5.8,Upcoming,2024.0,9.0,September
+M159,Hidden Truth,Thriller,Telugu,U,119.0,2026-04-29,92000000.0,S. Kapoor,5.6,Upcoming,2026.0,4.0,April
+M244,The Silent Code,Comedy,Kannada,UA,155.0,2026-05-21,65000000.0,R. Sharma,8.0,Active,2026.0,5.0,May
+M067,The Last Mission,Drama,Kannada,UA,118.0,2024-05-31,53000000.0,V. Rao,6.9,Active,2024.0,5.0,May
+M427,Warrior Rising,Thriller,Marathi,U,143.0,2026-04-02,192000000.0,K. Iyer,5.8,Completed,2026.0,4.0,April
+M442,The Forgotten Road,Comedy,Hindi,A,121.0,2026-05-05,99000000.0,M. Desai,7.0,Upcoming,2026.0,5.0,May
+M120,Beyond the Stars,Drama,Hindi,A,167.0,2025-03-24,212000000.0,N. Patel,7.9,Upcoming,2025.0,3.0,March
+M453,The Silent Code,Action,Marathi,A,118.0,2024-10-03,15000000.0,P. Joshi,5.8,Active,2024.0,10.0,October
+M066,Monsoon Love,Thriller,Malayalam,A,139.0,2025-02-28,134000000.0,M. Desai,8.6,Active,2025.0,2.0,February
+M470,Ocean's Secret,Sci-Fi,Telugu,UA,102.0,2025-05-19,220000000.0,V. Rao,6.3,Upcoming,2025.0,5.0,May
+M010,City Lights,Romance,Malayalam,A,172.0,2024-12-29,26000000.0,S. Kapoor,7.7,Upcoming,2024.0,12.0,December
+M019,The Silent Code,Adventure,Hindi,A,128.0,2026-02-19,171000000.0,N. Patel,5.9,Active,2026.0,2.0,February
+M154,Campus Days,Adventure,Tamil,A,185.0,2025-04-09,194000000.0,S. Kapoor,7.3,Completed,2025.0,4.0,April
+M301,Shadow House,Action,Kannada,A,154.0,2025-07-31,59000000.0,S. Kapoor,6.0,Active,2025.0,7.0,July
+M257,Beyond the Stars,Horror,English,UA,167.0,2025-03-01,44000000.0,K. Iyer,8.5,Upcoming,2025.0,3.0,March
+M392,The Great Escape,Drama,English,UA,97.0,2024-09-30,78000000.0,S. Kapoor,7.6,Upcoming,2024.0,9.0,September
+M273,Dream Beyond,Thriller,Malayalam,U,164.0,2025-04-30,130000000.0,S. Kapoor,8.4,Upcoming,2025.0,4.0,April
+M134,Warrior Rising,Drama,Kannada,A,180.0,2024-04-02,33000000.0,V. Rao,7.6,Active,2024.0,4.0,April
+M409,Love Again,Drama,Telugu,A,139.0,2024-04-12,97000000.0,M. Desai,7.1,Completed,2024.0,4.0,April
+M254,Monsoon Love,Romance,Malayalam,U,188.0,2024-02-16,154000000.0,M. Desai,8.2,Upcoming,2024.0,2.0,February
+M271,The Great Escape,Adventure,Tamil,A,162.0,2026-04-28,84000000.0,V. Rao,8.7,Active,2026.0,4.0,April
+M162,Dream Beyond,Action,English,A,143.0,2024-06-27,142000000.0,R. Sharma,7.9,Upcoming,2024.0,6.0,June
+M287,City Lights,Romance,Marathi,UA,172.0,2025-10-28,23000000.0,R. Sharma,6.8,Upcoming,2025.0,10.0,October
+M360,Monsoon Love,Thriller,Telugu,A,113.0,2024-04-26,182000000.0,A. Mehta,6.0,Upcoming,2024.0,4.0,April
+M339,Warrior Rising,Sci-Fi,Telugu,U,157.0,2025-05-26,18000000.0,N. Patel,7.5,Active,2025.0,5.0,May
+M402,The Silent Code,Action,Tamil,A,129.0,2025-11-11,193000000.0,N. Patel,6.3,Completed,2025.0,11.0,November
+M431,Final Verdict,Horror,Marathi,A,153.0,2025-09-29,205000000.0,N. Patel,5.6,Upcoming,2025.0,9.0,September
+M002,Hidden Truth,Drama,Telugu,UA,94.0,2024-04-14,15000000.0,R. Sharma,6.8,Active,2024.0,4.0,April
+M225,Laugh Out Loud,Sci-Fi,English,A,174.0,2026-03-18,168000000.0,R. Sharma,6.4,Upcoming,2026.0,3.0,March
+M208,Love Again,Comedy,English,A,188.0,2025-01-20,167000000.0,S. Kapoor,7.6,Upcoming,2025.0,1.0,January
+M118,Hidden Truth,Horror,Tamil,U,114.0,2026-06-09,140000000.0,K. Iyer,5.6,Upcoming,2026.0,6.0,June
+M428,Laugh Out Loud,Sci-Fi,Hindi,A,176.0,2026-04-25,21000000.0,S. Kapoor,7.8,Active,2026.0,4.0,April
+M358,City Lights,Horror,Marathi,U,140.0,2025-09-09,89000000.0,P. Joshi,6.7,Upcoming,2025.0,9.0,September
+M366,Warrior Rising,Drama,Hindi,U,123.0,2026-03-26,64000000.0,N. Patel,6.5,Completed,2026.0,3.0,March
+M265,Ocean's Secret,Action,Telugu,A,114.0,2024-02-16,100000000.0,P. Joshi,6.7,Active,2024.0,2.0,February
+M275,Family First,Sci-Fi,Tamil,U,142.0,2024-01-20,184000000.0,N. Patel,5.8,Completed,2024.0,1.0,January
+M071,Laugh Out Loud,Romance,English,UA,132.0,2025-03-26,105000000.0,R. Sharma,7.4,Active,2025.0,3.0,March
+M129,Love Again,Horror,Hindi,U,154.0,2025-11-10,159000000.0,K. Iyer,7.1,Active,2025.0,11.0,November
+M363,Family First,Drama,Telugu,UA,158.0,2024-03-16,137000000.0,M. Desai,6.9,Upcoming,2024.0,3.0,March
+M099,City Lights,Romance,English,UA,112.0,2026-05-02,85000000.0,A. Mehta,7.0,Upcoming,2026.0,5.0,May
+M441,Shadow House,Drama,English,A,128.0,2026-05-22,219000000.0,A. Mehta,7.5,Active,2026.0,5.0,May
+M022,Laugh Out Loud,Horror,Kannada,U,187.0,2024-03-21,144000000.0,S. Kapoor,6.7,Active,2024.0,3.0,March
+M194,Family First,Romance,Kannada,UA,165.0,2025-04-25,22000000.0,K. Iyer,5.5,Upcoming,2025.0,4.0,April
+M006,Shadow House,Sci-Fi,Kannada,UA,167.0,2025-01-24,75000000.0,A. Mehta,6.7,Upcoming,2025.0,1.0,January
+M415,Laugh Out Loud,Action,Marathi,U,95.0,2025-08-24,23000000.0,M. Desai,7.4,Upcoming,2025.0,8.0,August
+M314,Midnight Express,Thriller,Kannada,A,163.0,2025-05-30,89000000.0,K. Iyer,8.0,Active,2025.0,5.0,May
+M136,Love Again,Thriller,Telugu,UA,162.0,2025-03-17,182000000.0,S. Kapoor,8.9,Active,2025.0,3.0,March
+M440,Shadow House,Adventure,Marathi,U,147.0,2025-02-20,86000000.0,V. Rao,6.9,Completed,2025.0,2.0,February
+M381,Beyond the Stars,Romance,English,U,130.0,2024-06-19,123000000.0,A. Mehta,6.0,Completed,2024.0,6.0,June
+M328,Final Verdict,Horror,Telugu,A,177.0,2025-08-06,94000000.0,P. Joshi,7.9,Completed,2025.0,8.0,August
+M199,Family First,Horror,Telugu,A,168.0,2024-09-10,48000000.0,K. Iyer,7.1,Completed,2024.0,9.0,September
+M419,Warrior Rising,Drama,Tamil,A,167.0,2024-03-29,22000000.0,P. Joshi,8.4,Upcoming,2024.0,3.0,March
+M204,The Forgotten Road,Comedy,Malayalam,A,184.0,2026-03-21,183000000.0,R. Sharma,8.3,Upcoming,2026.0,3.0,March
+M068,Final Verdict,Drama,Tamil,U,149.0,2025-07-24,178000000.0,K. Iyer,8.2,Completed,2025.0,7.0,July
+M224,Beyond the Stars,Action,Malayalam,UA,137.0,2026-06-13,72000000.0,A. Mehta,5.1,Completed,2026.0,6.0,June
+M128,Final Verdict,Animation,Hindi,UA,185.0,2025-01-27,129000000.0,M. Desai,6.3,Completed,2025.0,1.0,January
+M144,City Lights,Romance,Malayalam,A,188.0,2025-10-13,176000000.0,S. Kapoor,7.2,Upcoming,2025.0,10.0,October
+M327,Hidden Truth,Animation,Marathi,U,115.0,2024-09-24,92000000.0,N. Patel,8.4,Completed,2024.0,9.0,September
+M140,Dream Beyond,Horror,Kannada,UA,115.0,2025-03-10,106000000.0,V. Rao,5.5,Active,2025.0,3.0,March
+M219,The Last Chapter,Adventure,Tamil,U,189.0,2026-01-14,81000000.0,N. Patel,6.4,Completed,2026.0,1.0,January
+M383,Beyond the Stars,Animation,Malayalam,UA,152.0,2025-12-02,50000000.0,R. Sharma,4.5,Upcoming,2025.0,12.0,December
+M331,Mumbai Diaries,Action,Tamil,U,170.0,2026-04-17,67000000.0,R. Sharma,7.0,Upcoming,2026.0,4.0,April
+M158,City Lights,Action,Hindi,UA,121.0,2025-11-09,40000000.0,N. Patel,7.6,Active,2025.0,11.0,November
+M095,Final Verdict,comedy,Malayalam,A,137.0,2025-12-09,129000000.0,K. Iyer,6.5,Completed,2025.0,12.0,December
+M256,Ocean's Secret,Romance,Tamil,U,178.0,2024-09-07,23000000.0,S. Kapoor,6.4,Completed,2024.0,9.0,September
+M476,Monsoon Love,Adventure,Kannada,UA,109.0,2025-02-06,21000000.0,K. Iyer,6.7,Active,2025.0,2.0,February
+M227,Beyond the Stars,Drama,Kannada,U,98.0,2025-04-20,191000000.0,V. Rao,7.1,Active,2025.0,4.0,April
+M040,Ocean's Secret,Comedy,Malayalam,A,128.0,2024-09-28,125000000.0,K. Iyer,7.2,Active,2024.0,9.0,September
+M484,Laugh Out Loud,Animation,Kannada,A,94.0,2024-11-02,136000000.0,S. Kapoor,7.2,Active,2024.0,11.0,November
+M429,Dream Beyond,Drama,English,UA,117.0,2026-01-16,218000000.0,M. Desai,8.8,Upcoming,2026.0,1.0,January
+M190,Shadow House,Adventure,Telugu,U,189.0,,97000000.0,K. Iyer,5.2,Upcoming,,,
+M449,Dream Beyond,Romance,Tamil,U,94.0,2024-07-10,165000000.0,N. Patel,6.4,Upcoming,2024.0,7.0,July
+M436,The Great Escape,Comedy,Malayalam,UA,99.0,2024-04-07,159000000.0,A. Mehta,7.1,Completed,2024.0,4.0,April
+M249,Monsoon Love,Comedy,Kannada,U,145.0,2025-10-17,136000000.0,A. Mehta,9.1,Active,2025.0,10.0,October
+M039,Warrior Rising,Adventure,Marathi,UA,116.0,2024-03-24,179000000.0,K. Iyer,5.4,Active,2024.0,3.0,March
+M243,The Forgotten Road,Sci-Fi,Malayalam,U,160.0,2026-05-15,146000000.0,P. Joshi,7.6,Completed,2026.0,5.0,May
+M354,Laugh Out Loud,Comedy,Tamil,UA,143.0,2024-05-29,84000000.0,V. Rao,6.8,Active,2024.0,5.0,May
+M413,Laugh Out Loud,Adventure,Hindi,UA,130.0,2025-08-31,41000000.0,M. Desai,5.2,Upcoming,2025.0,8.0,August
+M177,The Silent Code,Comedy,Hindi,UA,134.0,2025-11-24,158000000.0,P. Joshi,8.0,Upcoming,2025.0,11.0,November
+M023,Beyond the Stars,Adventure,English,UA,157.0,2025-11-06,163000000.0,M. Desai,7.1,Active,2025.0,11.0,November
+M160,Dream Beyond,Comedy,English,A,122.0,2024-01-03,2500000000.0,S. Kapoor,7.8,Active,2024.0,1.0,January
+M026,The Last Mission,Drama,Malayalam,A,97.0,2024-08-13,66000000.0,R. Sharma,7.1,Active,2024.0,8.0,August
+M184,The Forgotten Road,Drama,Hindi,UA,185.0,2024-10-23,118000000.0,S. Kapoor,7.6,Active,2024.0,10.0,October
+M241,Dream Beyond,Horror,English,A,126.0,2026-03-04,185000000.0,V. Rao,6.0,Active,2026.0,3.0,March
+M014,Love Again,Thriller,Malayalam,A,158.0,2024-09-28,75000000.0,M. Desai,4.7,Upcoming,2024.0,9.0,September
+M146,Laugh Out Loud,Romance,Marathi,A,143.0,2024-05-14,52000000.0,N. Patel,7.9,Active,2024.0,5.0,May
+M412,Mumbai Diaries,Thriller,Tamil,UA,104.0,2025-10-23,69000000.0,V. Rao,5.7,Upcoming,2025.0,10.0,October
+M315,Love Again,Adventure,English,UA,128.0,2024-11-05,78000000.0,A. Mehta,8.6,Upcoming,2024.0,11.0,November
+M362,Love Again,Romance,English,UA,174.0,2025-05-26,47000000.0,M. Desai,8.8,Completed,2025.0,5.0,May
+M079,City Lights,Horror,Marathi,UA,187.0,2024-12-01,105000000.0,P. Joshi,7.1,Completed,2024.0,12.0,December
+M321,Ocean's Secret,Action,Kannada,U,114.0,2024-10-01,213000000.0,N. Patel,7.1,Completed,2024.0,10.0,October
+M420,The Silent Code,Drama,Hindi,A,107.0,2026-01-29,187000000.0,A. Mehta,7.1,Active,2026.0,1.0,January
+M425,Shadow House,Drama,Tamil,A,155.0,2026-03-02,8000000.0,A. Mehta,7.8,Active,2026.0,3.0,March
+M393,Love Again,Thriller,English,A,131.0,2026-06-05,220000000.0,N. Patel,5.4,completed,2026.0,6.0,June
+M053,City Lights,Horror,Marathi,UA,119.0,2024-08-15,65000000.0,A. Mehta,6.2,Upcoming,2024.0,8.0,August
+M460,Love Again,Sci-Fi,Malayalam,U,131.0,2024-07-25,23000000.0,A. Mehta,5.6,Active,2024.0,7.0,July
+M035,Hidden Truth,Horror,English,U,127.0,2025-03-09,63000000.0,A. Mehta,8.0,Upcoming,2025.0,3.0,March
+M335,Shadow House,Adventure,English,U,114.0,2024-04-19,166000000.0,P. Joshi,8.2,Completed,2024.0,4.0,April
+M491,Beyond the Stars,Horror,Hindi,U,125.0,2025-11-01,111000000.0,S. Kapoor,7.0,Upcoming,2025.0,11.0,November
+M377,The Last Chapter,Animation,Telugu,U,134.0,2025-02-01,98000000.0,V. Rao,8.0,Upcoming,2025.0,2.0,February
+M185,Hidden Truth,Thriller,Telugu,A,175.0,2025-01-24,214000000.0,K. Iyer,6.7,Active,2025.0,1.0,January
+M312,Laugh Out Loud,Drama,Telugu,U,147.0,2024-07-30,161000000.0,A. Mehta,8.3,Active,2024.0,7.0,July
+M326,Campus Days,Sci-Fi,Tamil,U,162.0,2024-07-27,64000000.0,S. Kapoor,5.5,Active,2024.0,7.0,July
+M188,Campus Days,Drama,Tamil,U,121.0,2025-04-16,119000000.0,M. Desai,6.9,Upcoming,2025.0,4.0,April
+M285,Mumbai Diaries,Drama,Tamil,UA,181.0,2024-08-26,105000000.0,R. Sharma,9.6,Upcoming,2024.0,8.0,August
+M388,Dream Beyond,Sci-Fi,Kannada,U,146.0,2025-04-05,38000000.0,N. Patel,7.0,Active,2025.0,4.0,April
+M464,Monsoon Love,Comedy,Tamil,UA,183.0,2025-11-12,105000000.0,P. Joshi,7.3,Active,2025.0,11.0,November
+M166,Family First,Drama,Hindi,UA,167.0,2025-12-30,45000000.0,R. Sharma,7.5,Active,2025.0,12.0,December
+M399,Beyond the Stars,Sci-Fi,Malayalam,U,95.0,2026-05-22,33000000.0,V. Rao,6.9,Active,2026.0,5.0,May
+M299,The Last Chapter,Sci-Fi,Tamil,A,160.0,2025-04-10,128000000.0,N. Patel,8.0,Active,2025.0,4.0,April
+M024,City Lights,Romance,Tamil,A,173.0,2025-07-06,103000000.0,V. Rao,5.3,Upcoming,2025.0,7.0,July
+M471,Final Verdict,Comedy,Tamil,U,94.0,2025-10-28,83000000.0,A. Mehta,6.7,Completed,2025.0,10.0,October
+M348,Ocean's Secret,Comedy,Malayalam,UA,130.0,2024-06-06,100000000.0,R. Sharma,5.3,Active,2024.0,6.0,June
+M481,Final Verdict,Romance,Telugu,U,109.0,2024-09-26,200000000.0,R. Sharma,6.8,Active,2024.0,9.0,September
+M183,Ocean's Secret,Action,Hindi,U,128.0,2024-08-13,62000000.0,S. Kapoor,5.7,Completed,2024.0,8.0,August
+M344,Campus Days,Action,Hindi,UA,119.0,2026-02-02,27000000.0,K. Iyer,6.4,Upcoming,2026.0,2.0,February
+M042,Laugh Out Loud,Thriller,Marathi,UA,110.0,2024-12-23,120000000.0,P. Joshi,7.2,Upcoming,2024.0,12.0,December
+M357,The Forgotten Road,Animation,Kannada,A,166.0,2025-03-26,42000000.0,P. Joshi,7.0,Completed,2025.0,3.0,March
+M237,Laugh Out Loud,Thriller,Kannada,A,136.0,2024-05-09,100000000.0,M. Desai,4.6,Upcoming,2024.0,5.0,May
+M433,The Last Mission,Sci-Fi,Hindi,A,138.0,2026-05-09,196000000.0,P. Joshi,6.7,Active,2026.0,5.0,May
+M351,Hidden Truth,Drama,Telugu,A,190.0,2024-12-28,91000000.0,M. Desai,7.4,Active,2024.0,12.0,December
+M076,Dream Beyond,Animation,Tamil,U,139.0,2024-08-12,94000000.0,M. Desai,8.0,Upcoming,2024.0,8.0,August
+M032,Laugh Out Loud,Horror,Kannada,A,102.0,2024-09-12,20000000.0,A. Mehta,9.2,Active,2024.0,9.0,September
+M350,Family First,Adventure,Telugu,A,142.0,2025-03-17,34000000.0,A. Mehta,6.7,Active,2025.0,3.0,March
+M046,Mumbai Diaries,Drama,Malayalam,UA,125.0,2026-05-16,19000000.0,A. Mehta,6.1,Completed,2026.0,5.0,May
+M469,The Last Mission,Action,Tamil,UA,183.0,2026-01-07,115000000.0,S. Kapoor,6.4,Completed,2026.0,1.0,January
+M109,Dream Beyond,Thriller,Tamil,U,159.0,2024-08-27,65000000.0,S. Kapoor,7.3,Completed,2024.0,8.0,August
+M106,City Lights,Romance,Malayalam,U,110.0,2025-10-02,69000000.0,S. Kapoor,7.5,Upcoming,2025.0,10.0,October
+M150,Hidden Truth,Drama,Tamil,UA,176.0,2024-09-27,199000000.0,P. Joshi,7.4,Upcoming,2024.0,9.0,September
+M030,Shadow House,Action,Tamil,A,133.0,2025-10-31,212000000.0,R. Sharma,6.6,Active,2025.0,10.0,October
+M182,Shadow House,Romance,Malayalam,A,165.0,2025-03-16,132000000.0,P. Joshi,6.0,Active,2025.0,3.0,March
+M110,Love Again,Drama,Hindi,U,129.0,2026-04-26,160000000.0,P. Joshi,6.9,Completed,2026.0,4.0,April
+M123,Beyond the Stars,Horror,English,UA,160.0,2026-05-04,45000000.0,M. Desai,8.7,Active,2026.0,5.0,May
+M473,The Forgotten Road,Horror,Malayalam,U,145.0,2024-04-05,175000000.0,S. Kapoor,5.2,Upcoming,2024.0,4.0,April
+M105,Midnight Express,Animation,Marathi,A,169.0,2025-03-29,23000000.0,R. Sharma,6.8,Active,2025.0,3.0,March
+M061,Ocean's Secret,Comedy,Telugu,A,128.0,2025-03-06,111000000.0,A. Mehta,6.4,Completed,2025.0,3.0,March
+M147,Hidden Truth,Sci-Fi,Telugu,A,124.0,2026-03-16,220000000.0,S. Kapoor,5.5,Completed,2026.0,3.0,March
+M084,Shadow House,Action,Marathi,A,176.0,2024-11-14,104000000.0,M. Desai,6.4,Upcoming,2024.0,11.0,November
+M316,The Silent Code,Animation,Telugu,UA,96.0,2025-08-28,96000000.0,M. Desai,7.0,Upcoming,2025.0,8.0,August
+M382,Beyond the Stars,Comedy,English,UA,161.0,2024-01-10,137000000.0,V. Rao,6.3,Completed,2024.0,1.0,January
+M423,Laugh Out Loud,Romance,Malayalam,A,170.0,2025-06-20,27000000.0,V. Rao,6.7,Completed,2025.0,6.0,June
+M434,The Great Escape,Thriller,Tamil,UA,97.0,2024-07-29,44000000.0,P. Joshi,7.9,Active,2024.0,7.0,July
+M228,City Lights,Action,Kannada,U,95.0,2024-10-27,88000000.0,P. Joshi,5.7,Upcoming,2024.0,10.0,October
+M455,Final Verdict,Romance,Telugu,A,97.0,2025-11-03,203000000.0,N. Patel,6.4,Upcoming,2025.0,11.0,November
+M001,Shadow House,Action,Malayalam,UA,121.0,2025-10-16,65000000.0,S. Kapoor,7.6,Upcoming,2025.0,10.0,October
+M268,The Great Escape,Animation,Telugu,U,95.0,2025-09-08,17000000.0,S. Kapoor,5.3,Upcoming,2025.0,9.0,September
+M445,Mumbai Diaries,Thriller,English,U,141.0,2024-01-13,103000000.0,R. Sharma,5.4,Upcoming,2024.0,1.0,January
+M089,Hidden Truth,Horror,Tamil,UA,183.0,2026-04-07,159000000.0,P. Joshi,6.4,Completed,2026.0,4.0,April
+M078,Warrior Rising,Comedy,Kannada,UA,113.0,2025-10-20,20000000.0,P. Joshi,6.6,Completed,2025.0,10.0,October
+M269,Beyond the Stars,Adventure,Tamil,U,167.0,2024-12-07,139000000.0,S. Kapoor,6.5,Completed,2024.0,12.0,December
+M418,Laugh Out Loud,Romance,Malayalam,UA,183.0,2025-08-23,69000000.0,A. Mehta,7.1,Active,2025.0,8.0,August
+M124,The Great Escape,Comedy,Kannada,U,125.0,2025-09-05,205000000.0,M. Desai,5.3,Completed,2025.0,9.0,September
+M298,Midnight Express,Sci-Fi,Telugu,U,118.0,2024-04-30,42000000.0,V. Rao,7.4,Active,2024.0,4.0,April
+M370,Family First,Horror,Marathi,U,128.0,2024-08-15,19000000.0,R. Sharma,6.1,Active,2024.0,8.0,August
+M096,Hidden Truth,Sci-Fi,Marathi,A,148.0,2026-02-02,77000000.0,P. Joshi,5.2,Completed,2026.0,2.0,February
+M490,Shadow House,Romance,Kannada,A,134.0,2025-07-30,113000000.0,P. Joshi,8.1,Completed,2025.0,7.0,July
+M012,Mumbai Diaries,Thriller,Kannada,U,130.0,2024-11-28,110000000.0,P. Joshi,6.4,Active,2024.0,11.0,November
+M115,Campus Days,Animation,Marathi,UA,175.0,2025-04-26,34000000.0,S. Kapoor,6.8,Completed,2025.0,4.0,April
+M332,The Last Mission,Thriller,Telugu,UA,137.0,2024-06-03,23000000.0,V. Rao,5.9,Upcoming,2024.0,6.0,June
+M429,The Great Escape,Action,Tamil,U,149.0,2026-04-03,80000000.0,P. Joshi,8.3,Completed,2026.0,4.0,April
+M258,Campus Days,Animation,English,UA,155.0,2024-11-22,151000000.0,R. Sharma,6.2,Completed,2024.0,11.0,November
+M220,Mumbai Diaries,Thriller,Tamil,A,169.0,2024-05-04,125000000.0,R. Sharma,7.1,Active,2024.0,5.0,May
+M438,The Forgotten Road,Sci-Fi,Tamil,UA,119.0,2026-05-01,27000000.0,N. Patel,5.3,Active,2026.0,5.0,May
+M253,The Last Chapter,Sci-Fi,Kannada,A,95.0,2025-11-05,219000000.0,A. Mehta,9.5,Active,2025.0,11.0,November
+M353,The Silent Code,Animation,English,U,124.0,2025-06-17,85000000.0,P. Joshi,7.0,Completed,2025.0,6.0,June
+M482,Campus Days,Adventure,Tamil,A,119.0,2025-11-15,149000000.0,A. Mehta,5.9,Completed,2025.0,11.0,November
+M146,The Last Mission,Adventure,Tamil,U,117.0,2024-04-02,157000000.0,K. Iyer,6.9,Active,2024.0,4.0,April
+M444,Hidden Truth,Thriller,Hindi,UA,103.0,2026-02-05,213000000.0,S. Kapoor,6.9,Active,2026.0,2.0,February
+M179,The Silent Code,Sci-Fi,Marathi,A,131.0,2024-12-15,206000000.0,R. Sharma,6.7,Active,2024.0,12.0,December
+M411,Midnight Express,Thriller,Telugu,A,155.0,2024-01-28,56000000.0,M. Desai,7.9,Completed,2024.0,1.0,January
+M279,City Lights,Thriller,Marathi,A,128.0,2025-05-10,65000000.0,P. Joshi,7.1,Completed,2025.0,5.0,May
+M020,The Silent Code,Adventure,Kannada,A,90.0,2025-01-17,161000000.0,K. Iyer,5.3,Completed,2025.0,1.0,January
+M356,Love Again,Romance,Hindi,UA,132.0,2024-04-19,166000000.0,M. Desai,5.8,Completed,2024.0,4.0,April
+M170,The Forgotten Road,Romance,Marathi,U,177.0,2025-03-13,129000000.0,R. Sharma,6.1,Active,2025.0,3.0,March
+M240,The Last Mission,Comedy,Tamil,A,139.0,2024-04-26,151000000.0,R. Sharma,8.0,Completed,2024.0,4.0,April
+M278,Hidden Truth,Sci-Fi,Telugu,UA,176.0,2025-04-15,205000000.0,P. Joshi,6.3,Upcoming,2025.0,4.0,April
+M161,The Last Mission,Comedy,Hindi,UA,190.0,2025-11-07,68000000.0,K. Iyer,5.8,Active,2025.0,11.0,November
+M074,Monsoon Love,Action,Kannada,A,138.0,2026-02-27,130000000.0,A. Mehta,8.9,Completed,2026.0,2.0,February
+M018,Shadow House,Romance,Tamil,U,148.0,2024-12-14,8000000.0,P. Joshi,7.4,Upcoming,2024.0,12.0,December
+M063,Family First,Thriller,Telugu,UA,184.0,2025-03-28,51000000.0,R. Sharma,5.7,Completed,2025.0,3.0,March
+M250,Love Again,Romance,English,U,131.0,2025-06-14,189000000.0,N. Patel,7.0,Completed,2025.0,6.0,June
+M229,Hidden Truth,Horror,Marathi,U,186.0,2025-02-11,173000000.0,N. Patel,6.1,Completed,2025.0,2.0,February
+M239,Love Again,Adventure,Marathi,UA,130.0,2025-08-10,174000000.0,P. Joshi,6.2,Active,2025.0,8.0,August
+M230,Mumbai Diaries,Sci-Fi,Marathi,U,137.0,2024-12-31,119000000.0,M. Desai,7.8,Upcoming,2024.0,12.0,December
+M319,Warrior Rising,Animation,Telugu,A,107.0,2025-07-29,107000000.0,N. Patel,7.4,Completed,2025.0,7.0,July
+M284,Monsoon Love,Drama,English,U,175.0,2026-01-28,143000000.0,N. Patel,5.5,Upcoming,2026.0,1.0,January
+M048,Shadow House,Drama,Malayalam,U,159.0,2024-01-10,17000000.0,K. Iyer,8.3,Upcoming,2024.0,1.0,January
+M251,Midnight Express,Drama,Marathi,U,171.0,2025-06-15,149000000.0,P. Joshi,5.5,Active,2025.0,6.0,June
+M080,Laugh Out Loud,Horror,Hindi,A,159.0,2024-09-15,21000000.0,K. Iyer,4.6,Active,2024.0,9.0,September
+M296,Monsoon Love,Action,Marathi,A,136.0,2024-11-05,185000000.0,N. Patel,6.2,Active,2024.0,11.0,November
+M489,Love Again,Comedy,Telugu,A,164.0,2025-02-28,202000000.0,R. Sharma,9.0,Active,2025.0,2.0,February
+M021,Shadow House,Sci-Fi,Kannada,UA,120.0,2024-01-20,22000000.0,N. Patel,8.8,Upcoming,2024.0,1.0,January
+M457,Campus Days,Action,Tamil,A,135.0,2025-12-15,153000000.0,S. Kapoor,6.9,Upcoming,2025.0,12.0,December
+M141,Ocean's Secret,Sci-Fi,Telugu,UA,179.0,2024-08-30,83000000.0,A. Mehta,7.3,Upcoming,2024.0,8.0,August
+M193,The Last Chapter,Sci-Fi,Kannada,A,130.0,2025-08-01,46000000.0,V. Rao,7.3,Active,2025.0,8.0,August
+M131,Love Again,Drama,Tamil,UA,133.0,2026-06-10,167000000.0,M. Desai,5.1,Upcoming,2026.0,6.0,June
+M216,Final Verdict,Action,Marathi,U,181.0,2025-01-18,174000000.0,K. Iyer,7.9,Active,2025.0,1.0,January
+M245,Love Again,Thriller,Kannada,UA,93.0,2026-03-22,100000000.0,K. Iyer,5.6,Completed,2026.0,3.0,March
+M364,Campus Days,Adventure,Telugu,A,100.0,2024-02-07,35000000.0,S. Kapoor,7.5,Upcoming,2024.0,2.0,February
+M487,Laugh Out Loud,Drama,Tamil,A,140.0,2026-01-14,149000000.0,K. Iyer,6.2,Completed,2026.0,1.0,January
+M060,Warrior Rising,Sci-Fi,HINDI,A,127.0,2024-11-12,149000000.0,S. Kapoor,8.2,Active,2024.0,11.0,November
+M222,Midnight Express,Animation,Hindi,A,135.0,2024-05-27,69000000.0,M. Desai,4.8,Active,2024.0,5.0,May
+M177,The Last Mission,Comedy,Kannada,U,162.0,2024-12-25,176000000.0,M. Desai,7.0,Active,2024.0,12.0,December
+M450,Beyond the Stars,Animation,Telugu,UA,97.0,2024-10-29,30000000.0,P. Joshi,5.7,Completed,2024.0,10.0,October
+M056,Mumbai Diaries,Drama,Telugu,UA,134.0,2024-09-28,194000000.0,K. Iyer,8.1,Completed,2024.0,9.0,September
+M292,Dream Beyond,Comedy,Hindi,A,133.0,2025-04-14,210000000.0,P. Joshi,6.4,Upcoming,2025.0,4.0,April
+M255,The Last Mission,Horror,Malayalam,A,127.0,2025-10-16,172000000.0,P. Joshi,5.2,Completed,2025.0,10.0,October
+M408,City Lights,Comedy,Tamil,A,177.0,,121000000.0,N. Patel,6.8,Active,,,
+M386,Hidden Truth,Sci-Fi,Telugu,U,187.0,2026-03-04,192000000.0,V. Rao,7.2,Upcoming,2026.0,3.0,March
+M437,Love Again,Thriller,Marathi,UA,130.0,2025-11-09,213000000.0,M. Desai,9.0,Active,2025.0,11.0,November
+M198,Shadow House,Sci-Fi,Malayalam,U,154.0,2025-04-06,173000000.0,S. Kapoor,7.2,Active,2025.0,4.0,April
+M069,The Great Escape,Animation,Kannada,A,147.0,2025-09-19,48000000.0,V. Rao,7.4,Completed,2025.0,9.0,September
